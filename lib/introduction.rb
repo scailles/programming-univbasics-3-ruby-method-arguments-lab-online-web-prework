@@ -1,5 +1,5 @@
 name= Shaina
-def introduction= do
+def introduction=
   "Hi, my name is #{name}."
 end
   
